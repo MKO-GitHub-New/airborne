@@ -7,7 +7,7 @@ GetGoing hotels frontend.
 
 """
 
-__version__ = '8.68'
+__version__ = '8.69'
 
 CONTEXT_GLOBAL_OVERRIDE = {
     'release': __version__,
