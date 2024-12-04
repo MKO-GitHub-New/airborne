@@ -1,7 +1,7 @@
 {
     "name": "airborne",
     "version": "5.10.0",
-    "release": "release.8.71",
+    "release": "release.8.72",
     "private": true,
     "description": "Airborne Frontend",
     "scripts": {
